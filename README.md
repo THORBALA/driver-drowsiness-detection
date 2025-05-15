@@ -22,6 +22,7 @@ This project helps identify signs of fatigue or inattention in drivers by tracki
 - 🔊 **Beep Alerts** using `winsound`
 - 🎯 Real-time facial tracking via **MediaPipe Face Mesh**
 - 🧵 Multithreading to handle both detection and data simulation simultaneously
+- 🛑 **Automatic Speed Reduction** during drowsiness detection
 
 ---
 
